@@ -1,3 +1,6 @@
+Working Video of this project
+https://www.youtube.com/watch?v=st_62b1hVoc&feature=youtu.be
+
 # Steps
 
 1)npm install sails -g
